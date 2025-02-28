@@ -5,9 +5,7 @@ Learn more by watching this video: https://youtu.be/Egf2jgET3nQ?si=NY20JDNyq2op2
 
 
 Common Issues:
+1) Forgetting to add the Audio Manger scenec to the project globals/n
+2) Addign the script (AudioManager.gd) instead of the scene (AudioManager.tscn) <img width="468" alt="image" src="https://github.com/user-attachments/assets/e94d0298-5e4a-4ddd-b694-cda9af2f7b31" />/n
+3) Forgetting to setup your own SoundEffects in the AudioManagers export sound_effect_settings array <img width="273" alt="image" src="https://github.com/user-attachments/assets/80da7f67-4a5a-4477-be74-0b44d0ae992e" />
 
-1. Forgetting to add the Audio Manger scenec to the project globals
-2. Addign the script (AudioManager.gd) instead of the scene (AudioManager.tscn)
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/e94d0298-5e4a-4ddd-b694-cda9af2f7b31" />
-3. Forgetting to setup your own SoundEffects in the AudioManagers export sound_effect_settings array.
-<img width="273" alt="image" src="https://github.com/user-attachments/assets/80da7f67-4a5a-4477-be74-0b44d0ae992e" />
